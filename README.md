@@ -193,4 +193,10 @@ python metrics/select_by_metric.py \
 
 Please consider citing our papers if you think our code or data are useful. Thank you! <br>
 ```
+@article{li2025instruction,
+  title={How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients},
+  author={Li, Ming and Li, Yanhong and Li, Ziyue and Zhou, Tianyi},
+  journal={arXiv preprint arXiv:2504.10766},
+  year={2025}
+}
 ```
